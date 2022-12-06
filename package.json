@@ -1,0 +1,23 @@
+{
+  "name": "Registration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "service-worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sw-precache": "sw-precache"
+  },
+  "repository": {
+    "type": "git",
+    "url": "index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "index.html"
+  },
+  "homepage": "index.html",
+  "dependencies": {
+    "sw-precache": "^5.2.1"
+  }
+}
